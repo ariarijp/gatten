@@ -1,0 +1,5 @@
+.bundle
+bundle.js
+Gemfile.lock
+node_modules
+vendor
